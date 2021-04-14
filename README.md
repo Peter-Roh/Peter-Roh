@@ -1,10 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=810625&height=300&section=header&text=Peter%20Roh&fontSize=90&fontColor=ffffff&animation=twinkling&rotate=19&fontAlign=65&fontAlignY=35)
 
-# 👋 Welcome!
+# 👋 ***Welcome, \<developers/\>*** ! 
+
+Hi, I'm Roh Minchul. I'm a full stack web developer. 
+
+🔭 I'm interested in building a business, philosophy, and programming. 
+
+:coffee: I :hearts: coffee and reading books. 
+
+📫 Please contact me with my email. 
 
 [![Peter-Roh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peter-Roh&hide=stars&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-## ***My Tech Stack***
+## :computer: ***My Tech Stack***
 
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
@@ -18,9 +26,8 @@
 
 <!--
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 -->
