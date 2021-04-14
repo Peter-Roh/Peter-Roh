@@ -2,7 +2,7 @@
 
 # 👋 ***Welcome, \<developers/\>*** ! 
 
-Hi, I'm Roh Minchul. I'm a full stack web developer. 
+Hi, I'm Roh Minchul. I'm a full stack web developer. I code, read, think, and create. 
 
 🔭 I'm interested in building a business, philosophy, and programming. 
 
