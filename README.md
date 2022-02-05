@@ -6,7 +6,7 @@
   </a>
 </p>
 
-# 👋 ***Welcome, \<developers/\>*** ! 
+# 👋 ***Welcome, \<developers /\>*** ! 
 
 Hi, I'm Roh Minchul. I'm a full stack web developer. I code, read, think, and create. 
 
