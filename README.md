@@ -4,6 +4,9 @@
   <a href="https://drive.google.com/file/d/1grYY7ydYvBnM5OCALmjvv3fvT20QXpii/view?usp=sharing" >
     <img src="https://img.shields.io/badge/docs-CV-orange?style=plastic&logo=DocuSign&logoColor=white" />
   </a>
+  <a href="https://velog.io/@rmc2">
+    <img src="http://img.shields.io/badge/-Velog-20c997?style=plastic" />
+  </a>
 </p>
 
 # 👋 ***Welcome, \<developers /\>*** ! 
