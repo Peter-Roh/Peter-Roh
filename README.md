@@ -20,6 +20,8 @@ Hi, I'm Roh Minchul. I code, read, think, and create.
 📫 Please contact me via email. 
 
 [![Peter-Roh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peter-Roh&hide=stars&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rmc2)](https://solved.ac/rmc2)
 
 ## :computer: ***My Tech Stack***
 
