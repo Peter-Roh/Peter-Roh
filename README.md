@@ -10,10 +10,6 @@ Hi, I'm Roh Minchul. I code, read, think, and create.
 
 📫 Please contact me via email. 
 
-[![Peter-Roh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peter-Roh&hide=stars&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rmc2)](https://solved.ac/rmc2)
-
 ## :computer: ***My Tech Stack***
 
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
