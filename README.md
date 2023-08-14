@@ -4,9 +4,9 @@
 
 Hi, I'm Roh Minchul. I code, read, think, and write. 
 
-🔭 I'm interested in philosophy and investment. 
+:heart: I'm interested in philosophy and investment. 
 
-📫 Please contact me via email. 
+:e-mail: Please contact me via email. 
 
 ## :computer: ***My Tech Stack***
 
