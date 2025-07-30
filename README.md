@@ -1,8 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=810625&height=300&section=header&text=Peter%20Roh&fontSize=90&fontColor=ffffff&animation=twinkling&rotate=19&fontAlign=65&fontAlignY=35)
-
 # 👋 ***Welcome, \<Developers /\>*** ! 
 
-Hi, I'm Roh Minchul. I code, read, think, and write. 
+Hi, I'm Roh Minchul. I read, think, and write. 
 
 :heart: I'm interested in philosophy and investment. 
 
